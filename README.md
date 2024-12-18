@@ -1,4 +1,4 @@
-```markdown
+
 # Домашнє Завдання: Spark Streaming з Apache Kafka
 
 ## Опис Завдання
